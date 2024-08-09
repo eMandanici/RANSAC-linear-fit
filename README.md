@@ -11,4 +11,5 @@ It requires Salvaggio's IDL library, that can be installed by prompting on IDL>
 CHANGE LOG
 --------------------------------
 12 Nov 2022: first version upload
+
  9 Aug 2024: added license
